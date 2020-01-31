@@ -1,0 +1,5 @@
+# This is a Readme file for my first local repo called HelloWorld #
+# Here I will be committing all my salt state files from /srv/salt/arya folder from salt master 100.80.3.69 in PureFishing #
+
+
+
